@@ -1,6 +1,6 @@
 # ```SELF-BOT```
 <p align="center">
-<a href="https://github.com/zeeoneofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofc?color=red&style=flat-square"></a>
+<a href="https://github.com/BOTZ4YOU/followers"><img title="Followers" src="https://img.shields.io/github/followers/BOTZ4YOU?color=red&style=flat-square"></a>
 <a href="https://github.com/BOTZ4YOU/FahriBotzWaV6/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/BOTZ4YOU/FahriBotzWaV6?color=blue&style=flat-square"></a>
 <a href="https://github.com/BOTZ4YOU/FahriBotzWaV6/network/members"><img title="Forks" src="https://img.shields.io/github/forks/BOTZ4YOU/FahriBotzWaV6?color=red&style=flat-square"></a>
 <a href="https://github.com/BOTZ4YOU/FahriBotzWaV6/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/BOTZ4YOU/FahriBotzWaV6?label=Watchers&color=blue&style=flat-square"></a>
