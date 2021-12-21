@@ -2898,7 +2898,7 @@ case 'setnamegrup':
 					if (!isGroupAdmins) return reply(lang.onlygcAdmin())
 					if (!isBotGroupAdmins) return reply(lang.otNotAdm())
 					alpha.groupUpdateSubject(from, `${body.slice(9)}`)
-					alpha.sendMessage(from, '「  SUKSES  」Mengubah Nama Grup Menjadi ${groupMetadata.subject}', text, { quoted: fdoc })
+					alpha.sendMessage(from, '「  SUKSES  」Mengubah Nama Group', text, { quoted: fdoc })
 					break 
 case 'setdesc':
 case 'setdescgc':
@@ -2912,7 +2912,7 @@ case 'setdeskgroup':
 					if (!isGroupAdmins) return reply(lang.onlygcAdmin())
 					if (!isBotGroupAdmins) return reply('```Saya Bukan Admin```')
 					alpha.groupUpdateDescription(from, `${body.slice(9)}`)
-					alpha.sendMessage(from, '*「  SUKSES  」Mengubah Desk Grup ${groupMetadata.subject}', text, { quoted: fdoc })
+					alpha.sendMessage(from, '*「  SUKSES  」Mengubah Deskripsi Group', text, { quoted: fdoc })
 					break   
 case 'spam':
 if (!isGroup) return reply(lang.onlygc())
